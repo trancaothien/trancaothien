@@ -8,7 +8,6 @@
 - 💬 Ask me about **Dart & Flutter**
 - 📫 How to reach me **thiennh278612@gmail.com**
 <!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
-<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <div align="left"  class="icons-social" style="margin-left: 10px;">
