@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend & Mobile App developer</h3>
 
 ## About me
-- 🔭 I’m currently working in <a href="https://paraceltech.com/en/" target="blank">Paracel Technology Solutions</a>
+- 🔭 I’m currently working in <a href="https://resdii.com/" target="blank">RESDII - SOFTWARE DEVELOPMENT COMPANY</a>
 - 🌱 I’m currently Working on Mobile App(Flutter)
 - 🤝 I’m available for freelancing.
 - 💬 Ask me about **Dart & Flutter**
