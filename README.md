@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Backend & Mobile App developer</h3>
 
 ## About me
-- 🔭 I’m currently working in <a href="https://resdii.com/" target="blank">RESDII - SOFTWARE DEVELOPMENT COMPANY</a>
-- 🌱 I’m currently Working on Mobile App(Flutter)
+- 🔭 I’m currently working in <a href="https://kiaisoft.com/" target="blank">KIAISOFT</a>
+- 🌱 I’m currently working as a Software Engineer
 - 🤝 I’m available for freelancing.
-- 💬 Ask me about **Dart & Flutter**
+- 💬 Ask me about **Mobile development**
 - 📫 How to reach me **thiennh278612@gmail.com**
 <!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 <h3 align="left">Connect with me:</h3>
